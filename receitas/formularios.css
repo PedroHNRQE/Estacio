@@ -1,0 +1,73 @@
+nav{
+    background-color: rgb(54, 54, 54);
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 32px;
+    margin-right: 20px;
+}
+a:hover{
+    color: grey;
+}
+body{
+    
+    background-color: coral;
+    margin: 0px;
+}
+#home{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 32px;
+    
+}
+footer{
+    font-size: 32px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 2px;
+}
+#receitas{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: center;
+    
+}
+section{
+    background-color: bisque;
+    margin: 10px;
+    text-align: center;
+    width: 320px;
+    font-size: 20px;
+    padding: 5px;
+}
+#cadastro{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    font-size: 23px;
+    margin-left: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    margin: 20px;
+    height: 50px;
+    width: 500px;
+    border-radius: 7px;
+    border-color: white;
+    border-style: none;
+}
+#cadastrar{
+    font-size: 32px;
+    background-color: rgb(63, 63, 63);
+    color: white;
+}
+
+    
+
